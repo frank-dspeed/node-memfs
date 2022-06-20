@@ -33,5 +33,5 @@ const buffer = new ArrayBuffer(8); // Default Length 8 Bytes aka 8*8 = 64 bits
 ```js
 extension use https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/runtime/getURL
 message the url to the content
-expose the extension on the memFS. 
+expose the extension on the memFS. https://developer.chrome.com/docs/extensions/mv3/manifest/web_accessible_resources/
 ```
